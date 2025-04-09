@@ -14713,7 +14713,7 @@
 "type":"knowledgeCheck",
 "interactionType":"choice",
 "ramdomized":true,
-"correctAnswers":["si17167"]
+"correctAnswers":[]
 }
 
 }
@@ -15424,6 +15424,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"17887",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -15437,6 +15450,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"17903",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -15536,6 +15562,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"17967",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -20622,7 +20661,7 @@
 "type":"knowledgeCheck",
 "interactionType":"choice",
 "ramdomized":true,
-"correctAnswers":["si21505"]
+"correctAnswers":[]
 }
 
 }
@@ -23799,7 +23838,7 @@
 "branched":false,
 "submitAll":false,
 "review":true,
-"questions":["Slide12462q0","Slide16320q1","Slide16985q2","Slide18303q3","Slide21311q5","Slide22002q4","Slide23821q6","Slide24151q7"],
+"questions":["Slide12462q0","Slide16320q1","Slide16985q7","Slide18303q3","Slide21311q7","Slide22002q4","Slide23821q6","Slide24151q7"],
 "minScore":0,
 "maxScore":0,
 "passScore":0
